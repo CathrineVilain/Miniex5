@@ -1,7 +1,7 @@
 # miniex5
 So this miniex was the most challenging for me EVER! I found working with classes and objects very difficult and I ended up spending all
 my time trying to implement the classes and objects. I might as well say it right away; I failed, I did not make a game of any kind. After
-spending an entire day, I accomplished basically nothing. 
+spending an entire day coding, I accomplished basically nothing. 
 
 What I have is 4 ellipses moving randomly along the y - axis. My initial idea was that you had to click on the ellipses in order to make 
 them dissapear and when you've clicked on all of them the game is won! Hurray... I thought this was simple enough to match my very limited
