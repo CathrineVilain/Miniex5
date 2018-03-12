@@ -3,6 +3,8 @@ So this miniex was the most challenging for me EVER! I found working with classe
 my time trying to implement the classes and objects. I might as well say it right away; I failed, I did not make a game of any kind. After
 spending an entire day coding, I accomplished basically nothing. 
 
+![alt text](Miniex5.JPG)
+
 https://cdn.rawgit.com/CathrineVilain/miniex5/f9c49b61/p5/empty-example/index.html
 
 What I have is 4 ellipses moving randomly along the y - axis. My initial idea was that you had to click on the ellipses in order to make 
